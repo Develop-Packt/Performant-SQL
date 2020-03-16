@@ -1,4 +1,4 @@
--- Load the prepared functions into the smalljoins database using the Exercise6_functions.sql file found in the accompanying source code
+-- Load the prepared functions into the smalljoins database using the functions.sql file found in the accompanying source code
 
 $ psql smalljoins < Functions.sql
 
